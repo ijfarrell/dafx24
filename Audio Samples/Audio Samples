@@ -1,0 +1,4 @@
+Audio Samples from the Schumann PLL Harmonizer code and hardware clone, along with input signals. Software samples were rendered at 192kHz.
+
+LOW-GUITAR: Low, descending notes. Demonstrates Slower tracking speed of effect
+FULLRANGE-GUITAR: Audio sample with fast playing across guitar scale, demonstrates faster tracking of both upper and lower locked pitches.
