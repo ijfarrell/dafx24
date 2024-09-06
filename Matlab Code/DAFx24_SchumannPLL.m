@@ -36,7 +36,7 @@ f0 = 400;                               % TEST TONE FREQUENCY
 
 % KNOBS AND SWITCHES
 PREAMP      = 9;        %0-10           % INPUT PREAMPLIFICATION
-TRIGGER     = 6;        %0-10           % TRIGGER THRESHOLD (-4V TO +4V)
+TRIGGER     = 6;        %0-10           % TRIGGER THRESHOLD (-.6V TO +.6V)
 LAGTIME     = 3;        %0-10           % PLL LAGTIME (R1 ON PLL)
 
 RESPONSE    = 8;        %0-10           % LOOP FILTER CONTROL - DECREASES RESPONSE TIME
